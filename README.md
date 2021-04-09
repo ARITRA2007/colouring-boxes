@@ -1,2 +1,2 @@
-# colouring-boxes
-it is pro 24
+# collisionAlgorithm
+Algorithm to detect collision between two objects
